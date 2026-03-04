@@ -1,0 +1,5 @@
+{
+  "name": "TourismGuard: Fake Review Monitor",
+  "description": "A comprehensive tourism platform with a 6-step NLP pipeline for detecting and monitoring fake reviews.",
+  "requestFramePermissions": []
+}
